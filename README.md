@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Vahid Kaviany
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 📫 How to reach me Vahidkaviany18@gmail.com
+ Hi, I’m Vahid Kaviany
+ I’m interested in Programming
+ and you can reach me with Vahidkaviany18@gmail.com
 
 You can see my projects from the list below:
 1. [project_1](https://github.com/vahidka1/project_1.git) <--- Its about create database from json file and create app Dictionary app.
